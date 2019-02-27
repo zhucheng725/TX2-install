@@ -1,4 +1,4 @@
-JetPack 3.3 
+JetPack 3.3 # https://developer.nvidia.com/embedded/jetpack-3_3
 
 chmod +x JetPack-L4T-3.0-linux-x64.run
 ./JetPack-L4T-3.3-linux-x64_b39.run
