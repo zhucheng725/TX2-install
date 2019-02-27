@@ -27,6 +27,6 @@ cd tegra_multimedia_api/samples/backend
 ./backend 1 ../../data/Video/sample_outdoor_car_1080p_10fps.h264 H264 --trt-deployfile ../../data/Model/GoogleNet_one_class/GoogleNet_modified_oneClass_halfHD.prototxt --trt-modelfile ../../data/Model/GoogleNet_one_class/GoogleNet_modified_oneClass_halfHD.caffemodel --trt-forcefp32 0 --trt-proc-interval 1 -fps 10
 
 7.
-
 tf:链接：https://pan.baidu.com/s/1t6aEj2iUgcV61J_S2aOKJg 密码：cvl6
+
 ananconda_linux:链接：https://pan.baidu.com/s/1Otj2RnkLUfL0OZGBAcIuUA 密码：qpfr
