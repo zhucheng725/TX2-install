@@ -13,8 +13,8 @@ cat /usr/include/cudnn.h | grep CUDNN_MAJOR -A 2<br>
 
 3.tensorrt 4.0 GA<br>
 
-4. can not install anaconda<br>
-conda install python=3.6   # 3.7--> 3.6<br>
+4. can not install anaconda <br>
+conda install python=3.6   # 3.7--> 3.6 <br>
 
 5.can install tensorflow-gpu=1.10<br>
 
