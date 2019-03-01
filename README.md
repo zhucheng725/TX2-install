@@ -26,8 +26,7 @@ cd NVIDIA_CUDA-9.0_Samples/bin/aarch64/linux/release/
 cd tegra_multimedia_api/samples/backend
 ./backend 1 ../../data/Video/sample_outdoor_car_1080p_10fps.h264 H264 --trt-deployfile ../../data/Model/GoogleNet_one_class/GoogleNet_modified_oneClass_halfHD.prototxt --trt-modelfile ../../data/Model/GoogleNet_one_class/GoogleNet_modified_oneClass_halfHD.caffemodel --trt-forcefp32 0 --trt-proc-interval 1 -fps 10
 
-7.
-tf:链接：https://pan.baidu.com/s/1t6aEj2iUgcV61J_S2aOKJg 密码：cvl6
+7.tf:链接：https://pan.baidu.com/s/1t6aEj2iUgcV61J_S2aOKJg 密码：cvl6
 
 ananconda_linux:链接：https://pan.baidu.com/s/1Otj2RnkLUfL0OZGBAcIuUA 密码：qpfr
 
@@ -53,7 +52,8 @@ cd bazel-dist
 
 more details:https://docs.nvidia.com/deeplearning/dgx/install-tf-jetsontx2/index.html
 
-9.error:E: Could not get lock /var/lib/dpkg/lock - open (11: Resource temporarily unavailable)
+9.error:
+E: Could not get lock /var/lib/dpkg/lock - open (11: Resource temporarily unavailable)<br>
 E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
 
 solve:
@@ -65,7 +65,7 @@ error:fatal: Not a git repository (or any of the parent directories): .git
 solve: git init
 
 10.install opencv
-details:
-https://jkjung-avt.github.io/opencv3-on-tx2/
-https://www.jianshu.com/p/ae7185d26780
-opencv:链接：https://pan.baidu.com/s/1WcklRfx-zRiPBa119yNU0w 密码：rjss
+details:<br>
+https://jkjung-avt.github.io/opencv3-on-tx2/<br>
+https://www.jianshu.com/p/ae7185d26780<br>
+opencv:链接：https://pan.baidu.com/s/1WcklRfx-zRiPBa119yNU0w 密码：rjss<br>
