@@ -65,3 +65,7 @@ details:<br>
 https://jkjung-avt.github.io/opencv3-on-tx2/<br>
 https://www.jianshu.com/p/ae7185d26780<br>
 opencv:链接：https://pan.baidu.com/s/1WcklRfx-zRiPBa119yNU0w 密码：rjss<br>
+
+11.TRT version<br>
+$ dpkg -l | grep TensorRT<br>
+
