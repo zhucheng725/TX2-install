@@ -69,3 +69,8 @@ opencv:链接：https://pan.baidu.com/s/1WcklRfx-zRiPBa119yNU0w 密码：rjss<br
 11.TRT version<br>
 $ dpkg -l | grep TensorRT<br>
 
+
+12.ImportError: The _imagingft C module is not installed
+```sudo apt-get install libfreetype6-dev
+pip uninstall pillow
+pip install --no-cache-dir pillow```
